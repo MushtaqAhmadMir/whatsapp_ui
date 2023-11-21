@@ -9,26 +9,35 @@ Responsive Design: The UI adapts to different screen sizes, providing a consiste
 
 Web and Mobile Compatibility: Developed to work seamlessly on web browsers and mobile devices, ensuring accessibility across a variety of platforms.
 
-Demo
+# Demo
 Check out the [demo](https://mushtaqahmadmir.github.io/whatsappui.github.io/) to see the project in action.
 
 # Getting Started
 Clone the Repository:
 
 
+````
 git clone https://github.com/mushtaqahmadmir/whatsapp_ui_flutter.git
+````
 # Navigate to the Project:
 
 
+```` 
 cd whatsapp_ui_flutter
+````
 # Install Dependencies:
 
 
-flutter pub get
+````
+flutter pub get 
+````
 # Run the Project:
 
 
-flutter run
+```` 
+flutter run 
+````
+
 Feedback and Contributions
 Feel free to provide feedback or contribute to the project. Report any issues or suggest improvements by creating issues.
 
